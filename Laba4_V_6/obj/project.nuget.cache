@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEVzoGnmC8gVLKtdCZp+pse9ojKh3raMwKm1voVLnjqXBYA1k6tHVRC5xiqcD5K816EJKA5jBLlkQbx2THJCOg==",
+  "success": true,
+  "projectFilePath": "F:\\C#_repo\\Laba4_V_6\\Laba4_V_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\NITRO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\NITRO\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+F:\C#_repo\Laba4_V_6\bin\Debug\net5.0\Laba4_V_6.exe
+F:\C#_repo\Laba4_V_6\bin\Debug\net5.0\Laba4_V_6.deps.json
+F:\C#_repo\Laba4_V_6\bin\Debug\net5.0\Laba4_V_6.runtimeconfig.json
+F:\C#_repo\Laba4_V_6\bin\Debug\net5.0\Laba4_V_6.runtimeconfig.dev.json
+F:\C#_repo\Laba4_V_6\bin\Debug\net5.0\Laba4_V_6.dll
+F:\C#_repo\Laba4_V_6\bin\Debug\net5.0\ref\Laba4_V_6.dll
+F:\C#_repo\Laba4_V_6\bin\Debug\net5.0\Laba4_V_6.pdb
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\Laba4_V_6.csproj.AssemblyReference.cache
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\Laba4_V_6.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\Laba4_V_6.AssemblyInfoInputs.cache
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\Laba4_V_6.AssemblyInfo.cs
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\Laba4_V_6.csproj.CoreCompileInputs.cache
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\Laba4_V_6.dll
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\ref\Laba4_V_6.dll
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\Laba4_V_6.pdb
+F:\C#_repo\Laba4_V_6\obj\Debug\net5.0\Laba4_V_6.genruntimeconfig.cache
